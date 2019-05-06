@@ -1,7 +1,7 @@
-# -WordMorph
-Algorithms and Data Structures IST Project
+# WordMorph
+#### Algorithms and Data Structures IST Project
 
-# O problema – Caminhos entre palavras
+### O problema – Caminhos entre palavras
 
 In this project we intend to develop a program that is capable of producing "paths" between portuguese words.
 A path between two words (of the same size), is given by a starting point and an end point, a sequence of words of equal size, in which each word is obtained from its predecessor by replacing one or more characters for another(s). 
@@ -18,7 +18,7 @@ EX.:
 
       Cost = 6
 
-# How to run?
+### How to run?
 
   ./wordmorph <nome1>.dic <nome2>.pal
   
