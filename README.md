@@ -20,7 +20,7 @@ EX.:
 
 ### How to run?
 
-  ./wordmorph <nome1>.dic <nome2>.pal
+      ./wordmorph <nome1>.dic <nome2>.pal
   
 <name1>: Variable that identifies the file containing the dictionary to use. The application is restricted to dictionaries composed exclusively of words containing Latin characters, not accented and not hyphenated.
   
